@@ -1,8 +1,9 @@
 # Guess-Number
-<br>
+
 "Guess the Number" is a classic beginner-friendly Python project that challenges users to guess a randomly generated number within a defined range. This project is an excellent introduction to core programming concepts such as conditionals, loops, functions, user input, and random number generation. It's often used as a foundational exercise for learning Python due to its simplicity and flexibility for enhancement.
-<br><br>
+
 📌 Objectives
+
 Practice Python syntax and structure
 
 Understand how to handle user input
